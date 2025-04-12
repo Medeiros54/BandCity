@@ -1,0 +1,1 @@
+Testando aplicações e concatenando variáveis.
